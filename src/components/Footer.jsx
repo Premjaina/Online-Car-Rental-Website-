@@ -33,9 +33,9 @@ function Footer() {
                   style={{ fontSize: "14px" }}
                   target="_blank"
                   rel="noreferrer"
-                  href="https://devrahuls.vercel.app/"
+                  // href="https://devrahuls.vercel.app/"
                 >
-                  Design with ❤️ by Rahul
+                  Design with ❤️ by Prem
                 </a>
               </li>
             </ul>
